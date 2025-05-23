@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ly08z6dI)
 # ⚡⚡ Análise Descritiva de Dados com o Dataset Pokémon 
 
 Este repositório contém um Jupyter Notebook (`atividade1.ipynb`) e o dataset (`Pokemon.csv`) utilizado para uma aula introdutória sobre estatística descritiva em Python. O objetivo é guiar os alunos através da exploração de dados, cálculo de medidas de tendência central e dispersão, criação de tabelas de frequência, visualização de dados e análise de correlações.
